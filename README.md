@@ -6,6 +6,7 @@ Repository created to follow the Net Ninja ["HTMX for Beginners"](https://netnin
 1. [Video 1](https://www.youtube.com/watch?v=Yr-ubS0H7z4)
 2. [Video 2](https://www.youtube.com/watch?v=hh8B0eQCWUw)
 3. [Video 3](https://www.youtube.com/watch?v=C1YzIbx84fs)
+4. [Video 4](https://www.youtube.com/watch?v=k-uVFojpCqU)
 
 ## Resources
 
