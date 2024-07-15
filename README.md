@@ -9,9 +9,9 @@ Repository created to follow the Net Ninja ["HTMX for Beginners"](https://netnin
 
 ## Resources
 
-[HTMX Documentation](https://htmx.org/docs/)
-[HTMX Reference](https://htmx.org/reference/)
-[HTMX Examples](https://htmx.org/examples/)
-[Net Ninja HTMX Repo](https://github.com/iamshaunjp/htmx-for-beginners)
-[HTMX For Beginners Starter Project](https://github.com/iamshaunjp/htmx-for-beginners/tree/starter-project)
+- [HTMX Documentation](https://htmx.org/docs/)
+- [HTMX Reference](https://htmx.org/reference/)
+- [HTMX Examples](https://htmx.org/examples/)
+- [Net Ninja HTMX Repo](https://github.com/iamshaunjp/htmx-for-beginners)
+- [HTMX For Beginners Starter Project](https://github.com/iamshaunjp/htmx-for-beginners/tree/starter-project)
 
