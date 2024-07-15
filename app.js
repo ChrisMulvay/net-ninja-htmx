@@ -14,7 +14,7 @@ app.use(express.static('public'));
 app.get('/', (req, res) => {
   res.send(createHomepageTemplate());
 });
-/* Books - GET Books List Template */
+/* Books - GET Books List Template  */
 app.get('/books', (req, res) => {
   res.send(createListTemplate());
 });
